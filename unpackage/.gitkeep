@@ -1,0 +1,3 @@
+//没有任何作用，就是用来占位的，防止 .gitignore 默认忽略 unpackage 
+//因为 .gitignore 中忽略了 unpackage 下的 dist 由于 unpackage 中只有 dist 一个子文件 git 会默认也忽略 unpackage 
+//所以才需要这么一个 .gitkeep 用来占位 防止 git 默认忽略 unpackage
